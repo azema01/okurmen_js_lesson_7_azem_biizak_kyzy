@@ -1,1 +1,2 @@
 # okurmen_js_lesson_7_azem_biizak_kyzy
+# okurmen_js_lesson-7_azem_biizak_kyzy
